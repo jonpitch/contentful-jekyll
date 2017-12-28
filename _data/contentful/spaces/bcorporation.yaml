@@ -5,80 +5,98 @@ event:
     created_at: !ruby/object:DateTime 2017-12-28 14:47:14.937000000 Z
     updated_at: !ruby/object:DateTime 2017-12-28 14:47:14.937000000 Z
     content_type_id: event
-  title: Do good things
-  description: B Corp ipsum dolor sit amet rigorous good inspiring Be the change standards,
-    statement aid unifying change unity Fair Trade B2B create. Social statement act
-    Fair Trade create dream B Corp give aid community benefit. Help sustainability
-    inspiring growing redefine. World collaborate sustainability together cause stewardship
-    act bridge raise. Social stewardship civil dream good unifying redefine. Good
-    actionable empower, game-changer social stewardship statement B2B.
-  date: !ruby/object:DateTime 2018-01-26 13:00:00.000000000 -05:00
+  title:
+    en-US: Do good things
+  description:
+    en-US: B Corp ipsum dolor sit amet rigorous good inspiring Be the change standards,
+      statement aid unifying change unity Fair Trade B2B create. Social statement
+      act Fair Trade create dream B Corp give aid community benefit. Help sustainability
+      inspiring growing redefine. World collaborate sustainability together cause
+      stewardship act bridge raise. Social stewardship civil dream good unifying redefine.
+      Good actionable empower, game-changer social stewardship statement B2B.
+  date:
+    en-US: !ruby/object:DateTime 2018-01-26 13:00:00.000000000 -05:00
+- sys:
+    id: 5MqwUuzInm2Q0iaui2Kwae
+    created_at: !ruby/object:DateTime 2017-12-28 14:48:24.101000000 Z
+    updated_at: !ruby/object:DateTime 2017-12-28 16:29:31.286000000 Z
+    content_type_id: event
+  title:
+    en-US: 'v6: What''s New'
+  description:
+    en-US: B Corp ipsum dolor sit amet rigorous good inspiring Be the change standards,
+      statement aid unifying change unity Fair Trade B2B create. Social statement
+      act Fair Trade create dream B Corp give aid community benefit. Help sustainability
+      inspiring growing redefine. World collaborate sustainability together cause
+      stewardship act bridge raise. Social stewardship civil dream good unifying redefine.
+      Good actionable empower, game-changer social stewardship statement B2B.
+  date:
+    en-US: !ruby/object:DateTime 2018-03-01 12:00:00.000000000 -05:00
+  location:
+    en-US:
+      lat: 40.0469154
+      lon: -75.4427215
 - sys:
     id: 6RYayJ0r5YGkmoCIOGMQGq
     created_at: !ruby/object:DateTime 2017-12-28 14:46:26.723000000 Z
     updated_at: !ruby/object:DateTime 2017-12-28 14:47:33.294000000 Z
     content_type_id: event
-  title: Certification Webinar
-  description: B Corp ipsum dolor sit amet rigorous good inspiring Be the change standards,
-    statement aid unifying change unity Fair Trade B2B create. Social statement act
-    Fair Trade create dream B Corp give aid community benefit. Help sustainability
-    inspiring growing redefine. World collaborate sustainability together cause stewardship
-    act bridge raise. Social stewardship civil dream good unifying redefine. Good
-    actionable empower, game-changer social stewardship statement B2B.
-  date: !ruby/object:DateTime 2018-02-14 13:00:00.000000000 -05:00
+  title:
+    en-US: Certification Webinar
+  description:
+    en-US: B Corp ipsum dolor sit amet rigorous good inspiring Be the change standards,
+      statement aid unifying change unity Fair Trade B2B create. Social statement
+      act Fair Trade create dream B Corp give aid community benefit. Help sustainability
+      inspiring growing redefine. World collaborate sustainability together cause
+      stewardship act bridge raise. Social stewardship civil dream good unifying redefine.
+      Good actionable empower, game-changer social stewardship statement B2B.
+  date:
+    en-US: !ruby/object:DateTime 2018-02-14 13:00:00.000000000 -05:00
   location:
-    lat: 40.0469154
-    lon: -75.4427215
-- sys:
-    id: 5MqwUuzInm2Q0iaui2Kwae
-    created_at: !ruby/object:DateTime 2017-12-28 14:48:24.101000000 Z
-    updated_at: !ruby/object:DateTime 2017-12-28 14:48:24.101000000 Z
-    content_type_id: event
-  title: 'v6: What''s New'
-  description: B Corp ipsum dolor sit amet rigorous good inspiring Be the change standards,
-    statement aid unifying change unity Fair Trade B2B create. Social statement act
-    Fair Trade create dream B Corp give aid community benefit. Help sustainability
-    inspiring growing redefine. World collaborate sustainability together cause stewardship
-    act bridge raise. Social stewardship civil dream good unifying redefine. Good
-    actionable empower, game-changer social stewardship statement B2B.
-  date: !ruby/object:DateTime 2018-03-01 12:00:00.000000000 -05:00
-  location:
-    lat: 40.0469154
-    lon: -75.4427215
+    en-US:
+      lat: 40.0469154
+      lon: -75.4427215
 card:
 - sys:
     id: Me1HyGb1qCa800aYIkA2M
     created_at: !ruby/object:DateTime 2017-12-28 14:45:29.227000000 Z
     updated_at: !ruby/object:DateTime 2017-12-28 14:45:29.227000000 Z
     content_type_id: card
-  headline: How to become a B Corp?
-  description: B Corp ipsum dolor sit amet rigorous good inspiring Be the change standards,
-    statement aid unifying change unity Fair Trade B2B create. Social statement act
-    Fair Trade create dream B Corp give aid community benefit. Help sustainability
-    inspiring growing redefine. World collaborate sustainability together cause stewardship
-    act bridge raise. Social stewardship civil dream good unifying redefine. Good
-    actionable empower, game-changer social stewardship statement B2B.
+  headline:
+    en-US: How to become a B Corp?
+  description:
+    en-US: B Corp ipsum dolor sit amet rigorous good inspiring Be the change standards,
+      statement aid unifying change unity Fair Trade B2B create. Social statement
+      act Fair Trade create dream B Corp give aid community benefit. Help sustainability
+      inspiring growing redefine. World collaborate sustainability together cause
+      stewardship act bridge raise. Social stewardship civil dream good unifying redefine.
+      Good actionable empower, game-changer social stewardship statement B2B.
 - sys:
     id: 6z3ENXFkv6auOeoiKIC8kS
     created_at: !ruby/object:DateTime 2017-12-28 14:45:14.786000000 Z
     updated_at: !ruby/object:DateTime 2017-12-28 14:45:14.786000000 Z
     content_type_id: card
-  headline: Why become a B Corp?
-  description: B Corp ipsum dolor sit amet rigorous good inspiring Be the change standards,
-    statement aid unifying change unity Fair Trade B2B create. Social statement act
-    Fair Trade create dream B Corp give aid community benefit. Help sustainability
-    inspiring growing redefine. World collaborate sustainability together cause stewardship
-    act bridge raise. Social stewardship civil dream good unifying redefine. Good
-    actionable empower, game-changer social stewardship statement B2B.
+  headline:
+    en-US: Why become a B Corp?
+  description:
+    en-US: B Corp ipsum dolor sit amet rigorous good inspiring Be the change standards,
+      statement aid unifying change unity Fair Trade B2B create. Social statement
+      act Fair Trade create dream B Corp give aid community benefit. Help sustainability
+      inspiring growing redefine. World collaborate sustainability together cause
+      stewardship act bridge raise. Social stewardship civil dream good unifying redefine.
+      Good actionable empower, game-changer social stewardship statement B2B.
 - sys:
     id: 6y3utXuexUkYUcq8ugUeUO
     created_at: !ruby/object:DateTime 2017-12-28 14:44:45.006000000 Z
     updated_at: !ruby/object:DateTime 2017-12-28 14:44:45.006000000 Z
     content_type_id: card
-  headline: What is a B Corp?
-  description: B Corp ipsum dolor sit amet rigorous good inspiring Be the change standards,
-    statement aid unifying change unity Fair Trade B2B create. Social statement act
-    Fair Trade create dream B Corp give aid community benefit. Help sustainability
-    inspiring growing redefine. World collaborate __sustainability__ together cause
-    stewardship act bridge raise. *Social stewardship* civil dream good unifying redefine.
-    Good actionable empower, __game-changer__ social stewardship statement B2B.
+  headline:
+    en-US: What is a B Corp?
+  description:
+    en-US: B Corp ipsum dolor sit amet rigorous good inspiring Be the change standards,
+      statement aid unifying change unity Fair Trade B2B create. Social statement
+      act Fair Trade create dream B Corp give aid community benefit. Help sustainability
+      inspiring growing redefine. World collaborate __sustainability__ together cause
+      stewardship act bridge raise. *Social stewardship* civil dream good unifying
+      redefine. Good actionable empower, __game-changer__ social stewardship statement
+      B2B.

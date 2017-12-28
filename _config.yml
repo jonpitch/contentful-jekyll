@@ -6,3 +6,5 @@ contentful:
     - bcorporation:
         space: ENV_CONTENTFUL_SPACE_ID
         access_token: ENV_CONTENTFUL_ACCESS_TOKEN
+        cda_query:
+          locale: '*'

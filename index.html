@@ -14,8 +14,8 @@ layout: default
 					<span class="pennant">
 						<span class="fa fa-briefcase"></span>
 					</span>
-					<h3>{{ card.headline }}</h3>
-					<p>{{ card.description }}</p>
+					<h3>{{ card.headline.en-US }}</h3>
+					<p>{{ card.description.en-US }}</p>
 					<a href="#" class="button button-style1">Read More</a>
 				</section>
 			{% endfor %}
@@ -35,9 +35,9 @@ layout: default
 							<img src="/assets/images/pic01.jpg" alt="">
 						</a>
 						<header>
-							<h2>{{ event.title }}</h2>
+							<h2>{{ event.title.en-US }}</h2>
 						</header>
-						<p>{{ event.description }}</p>
+						<p>{{ event.description.en-US }}</p>
 					</section>
 				{% endfor %}
 			</div>
