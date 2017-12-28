@@ -1,0 +1,8 @@
+name: bcorporation.net
+description: B the Change
+
+contentful:
+  spaces:
+    - bcorporation:
+        space: ENV_CONTENTFUL_SPACE_ID
+        access_token: ENV_CONTENTFUL_ACCESS_TOKEN

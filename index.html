@@ -1,0 +1,46 @@
+---
+title: Linear
+layout: default
+---
+<!-- Featured -->
+<div id="featured">
+	<div class="container">
+		<p>This is a proof of concept static site using Jekyll and Contentful.</p>
+		<hr />
+		<div class="row">
+
+			{% for card in site.data.contentful.spaces.bcorporation.card %}
+				<section class="4u">
+					<span class="pennant">
+						<span class="fa fa-briefcase"></span>
+					</span>
+					<h3>{{ card.headline }}</h3>
+					<p>{{ card.description }}</p>
+					<a href="#" class="button button-style1">Read More</a>
+				</section>
+			{% endfor %}
+
+		</div>
+	</div>
+</div>
+
+<!-- Main -->
+	<div id="main">
+		<div id="content" class="container">
+
+			<div class="row">
+				{% for event in site.data.contentful.spaces.bcorporation.event limit:2 %}
+					<section class="6u">
+						<a href="#" class="image full">
+							<img src="/assets/images/pic01.jpg" alt="">
+						</a>
+						<header>
+							<h2>{{ event.title }}</h2>
+						</header>
+						<p>{{ event.description }}</p>
+					</section>
+				{% endfor %}
+			</div>
+
+		</div>
+	</div>
