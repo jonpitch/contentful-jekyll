@@ -68,6 +68,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  jekyll
   jekyll-contentful-data-import
 
 BUNDLED WITH
