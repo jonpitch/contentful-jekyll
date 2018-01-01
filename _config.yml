@@ -1,6 +1,8 @@
 name: bcorporation.net
 description: B the Change
 
+exclude: [vendor]
+
 contentful:
   spaces:
     - bcorporation:
