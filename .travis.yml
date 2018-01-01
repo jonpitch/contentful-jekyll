@@ -9,9 +9,9 @@ cache:
     - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
 
 before_script:
-  - chmod +x ./scripts/test
+  - chmod +x ./scripts/test.sh
 
-script: ./scripts/test
+script: ./scripts/test.sh
 
 branches:
   only:
