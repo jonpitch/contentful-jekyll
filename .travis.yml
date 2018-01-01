@@ -8,8 +8,10 @@ cache:
   directories:
     - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
 
-script: 
-  - ./scripts/test
+before_script:
+  - chmod +x ./scripts/test
+
+script: ./scripts/test
 
 branches:
   only:
