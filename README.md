@@ -19,3 +19,13 @@ As of this commit, the Glimmer publish strategy isn't crystal clear to me. For n
 - `cd node_modules/demo-glimmer`
 - `yarn install && ember build --production`
 - `cp -R dist/ ../../assets/demo-glimmer`
+
+## testing
+based off of [this article](https://jekyllrb.com/docs/continuous-integration/travis-ci/)
+
+had to:
+```
+brew unlink xz
+bundle install
+brew link xz
+```
